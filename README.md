@@ -1,6 +1,6 @@
 # Shrews-behavioral-box
 It deposits materials for assembling behavioral box for tree shrews.\
-To assemble behavioral box, please read our manual below. For laser cutting plate, the thickness can be set around 1.4 inch.\
+To assemble behavioral box, please read our manual below. For laser cutting plate, the thickness can be set around 0.14 inch.\
 Since 3d printers have different precisions, we also uploaded python script for generating stl files. The parameters of objects can be adjust in the python script.\
 We use Arduino Mega 2560 to control this box, please read our Arduino script in specific project.\
 All accessories are listed in accessory list.\
